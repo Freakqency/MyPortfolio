@@ -5,16 +5,18 @@ email: surya.16cs@kct.ac.in
 keywords: "Reverse Engineering, Binary Exploitation, Low Level Programming, Compiler Design, Software Engineer, Python, Machine Learning, Deep Learning"
 skills: "Innovation Engineer at Forge Accelerator"
 url: 	Freakqency.github.io
-baseurl: /MyPortfolio
+baseurl: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
-  - title: linkedin
-    url: https://www.linkedin.com/in/surya-shankar-125b36b4/
+  # - title: linkedin
+  #   url: https://www.linkedin.com/in/surya-shankar-125b36b4/
   - title: medium
     url: https://medium.com/@surya.16cs
   - title: twitter
+    url: https://twitter.com/Freakqency
+  - title: youtube
     url: https://twitter.com/Freakqency
     
 # Google webmaster tools
